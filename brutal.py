@@ -31,22 +31,15 @@ ungu="\033[1;95m"
 merah="\033[1;91m"
 biru="\033[1;96m"
 
-os.system("clear")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe Channel Fatih Arridho")
-time.sleep(3)
-os.system("xdg-open https://youtube.com/c/FatihArridhoo")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udah subscribe, semoga work")
-time.sleep(3)
-os.system("clear")
+
 autoketik(f"""
 {hijau}╔═╗{merah}┌─┐┌─┐┌┬┐  {biru}╦ ╦┬ ┬┌─┐┌┬┐{putih}┌─┐{kuning}┌─┐┌─┐ ┌─┐
 {hijau}╚═╗{merah}├─┘├─┤│││  {biru}║║║├─┤├─┤ │ {putih}└─┐{kuning}├─┤├─┘ ├─┘
 {hijau}╚═╝{merah}┴  ┴ ┴┴ ┴  {biru}╚╩╝┴ ┴┴ ┴ ┴ {putih}└─┘{kuning}┴ ┴┴   ┴ {ungu}V1
 {abu}-----------------------------------------
-{putih}[{biru}•{putih}] {biru}Author {putih}   : Fatih Arridho
-{putih}[{biru}•{putih}] {abu}GitHub {putih}   : FatihArridho
-{putih}[{biru}•{putih}] {merah}You{putih}Tube {putih}  : Fatih Arridho
-{putih}[{biru}•{putih}] {ungu}Instagram {putih}: @fatdho
+{putih}[{biru}•{putih}] {biru}Author {putih}   : yaelahzal 
+{putih}[{biru}•{putih}] {abu}GitHub {putih}   : agusrizal17 
+{putih}[{biru}•{putih}] {ungu}Instagram {putih}: @yaelahzal17
 {W}[{Y}•{W}] Ip Kamu {putih}  :{Y} {ip}
 {W}[{Y}•{W}] Waktu/Jam {putih}:{Y} {localtime}
 {W}[{Y}•{W}] Total Run {putih}:{Y} {getvisit['value']}
